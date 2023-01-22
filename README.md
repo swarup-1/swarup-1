@@ -1,4 +1,4 @@
-![MasterHead](https://drive.google.com/file/d/1OS6dSMYEwDk3KZAmiQNfaviS6_loqxKz/view)
+![MasterHead](https://qph.fs.quoracdn.net/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13)
 <h1 align="center">Hi 👋, I'm Swarup</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
 
