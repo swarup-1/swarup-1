@@ -21,17 +21,26 @@
 
 ## 💼 Tech Stacks and Tools:
 
-<img title="HTML5" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img title="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img title="HTML5" height="40" src="./asset/TechStack/html.svg">
+<img title="CSS" height="40" src="./asset/TechStack/css.svg">
+<img title="JavaScript" height="40" src="./asset/TechStack/js.svg">
+<img title="ReactJs" height="40" src="./asset/TechStack/react.svg">
+<img title="Redux" height="40" src="./asset/TechStack/redux.svg">
+<img title="Chakra UI" height="40" src="./asset/TechStack/chakra.svg">
 <img title="TypeScript"  height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-<img title="ReactJs" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<img title="Redux" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png">
-<img title="NextJs" height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1280px-Nextjs-logo.svg.png">
-<img title="Node.js" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-<img title="Express" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png">
+<img title="NextJs" height="40" src="./asset/TechStack/next.svg">
+<img title="Node.js" height="40" src="./asset/TechStack/node.svg">
+<img title="Express" height="40" src="./asset/TechStack/express.svg">
 <img title="MongoDB" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
+<img title="Mongoose" height="40" src="./asset/TechStack/mongoose.svg">
 
-<img title="CSS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img title="VS code" height="40" src="./asset/TechTools/vs.svg">
+<img title="Git" height="40" src="./asset/TechTools/git.svg">
+<img title="GitHub" height="40" src="./asset/TechTools/github.svg">
+<img title="npm" height="40" src="./asset/TechTools/npm.svg">
+<img title="postman" height="40" src="./asset/TechTools/postman.png">
+<img title="vercel" height="40" src="./asset/TechTools/vercel.svg">
+<img title="netlify" height="40" src="./asset/TechTools/netlify.png">
 
 </div>
 <br/>
